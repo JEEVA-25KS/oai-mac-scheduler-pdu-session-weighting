@@ -121,3 +121,7 @@ slot, the implemented weighted byte-share mechanism achieves an **equivalent and
 verifiable differentiation** in delivered throughput and resource consumption per
 session, and does so without requiring any change to the scheduler's underlying
 single-transport-block-per-UE-per-slot architecture.
+
+
+## 4.4 Appendix 
+The corresponding scripts(updated version) are organized under the repo's scripts folder for reference.

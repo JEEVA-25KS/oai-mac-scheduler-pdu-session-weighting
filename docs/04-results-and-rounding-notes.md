@@ -80,7 +80,7 @@ unallocated. A cross-check between the newly logged aggregate DL `NPRB` value an
 the sum of per-LCID PRB-equivalent values confirmed internal consistency of the
 added accounting logic.
 
-### Sample runtime log (two consecutive captures)
+### Sample runtime gNB-log (two consecutive captures)
 
 ```
 [NR_MAC] Frame.Slot 640.0
@@ -109,6 +109,9 @@ UE 7dc0: LCID 5: TX         394986 RX           2429 bytes, PRB-equiv(slot)  36/
 UE 7dc0: LCID 6: TX         171217 RX           2893 bytes, PRB-equiv(slot)  15/106, PRB-equiv(cumulative) 13879
 UE 7dc0: LCID 7: TX         185835 RX           1970 bytes, PRB-equiv(slot)  15/106, PRB-equiv(cumulative) 17842
 ```
+
+
+<img width="1250" height="261" alt="image" src="https://github.com/user-attachments/assets/821617e2-f2af-4c4a-b794-74f335479a56" />
 
 ## 4.3 Conclusion
 

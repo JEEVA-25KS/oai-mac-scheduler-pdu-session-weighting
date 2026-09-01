@@ -1,0 +1,10 @@
+# Logs and build artifacts
+*.log
+logs/*.log
+build/
+*.o
+*.pcap
+
+# OS/editor cruft
+.DS_Store
+*.swp
